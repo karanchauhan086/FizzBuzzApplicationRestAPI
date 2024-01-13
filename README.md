@@ -36,4 +36,4 @@ java -jar target/fizzbuzz-api-1.0.0.jar
 
 # API Documentation
 
-Find the detailed API documentation [here](API Documentation.md).
+Find the detailed API documentation [API Documentation](https://github.com/karanchauhan086/FizzBuzzApplicationRestAPI/blob/main/API%20Documentation.md).
